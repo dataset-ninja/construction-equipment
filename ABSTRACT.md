@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+Authors introduce the **Construction Equipment** dataset, a valuable resource designed for object detection tasks, which finds potential applications within the realms of the construction and manufacturing industries. Comprising 318 images, this dataset encompasses a total of 3752 annotated objects, categorized into five distinct classes, such as *crane*, *excavator*, *truck*, *tractor* and *other*. This dataset serves as an essential tool for developing and testing object detection algorithms to enhance safety and efficiency within these industrial domains.
