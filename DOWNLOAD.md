@@ -1,6 +1,6 @@
 Dataset **Сonstruction Equipment** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/O/y/bp/dRTEfOgywQFdl8h5mvYr4msZMehMrfeMGATmSYIetjnXxdpv8n8T4fQeCdGGYjIDItkTgZTeNjfrAvUTk38gYM96DrMkDw8B73g0nPNaB9gRaCxpoG6L6zS7Vg9b.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
