@@ -1,3 +1,3 @@
-# Сonstruction Equipment
+# Construction Equipment
 
-Сonstruction Equipment is a dataset for object detection task.
+Construction Equipment is a dataset for object detection task.
